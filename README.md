@@ -1,3 +1,6 @@
+# Source of this work
+This is a tutorial project found at https://ibaslogic.com/react-tutorial-for-beginners/ that provides a simple beginning for coding react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
